@@ -1,15 +1,15 @@
 # expedia-scraper: tests failing
 
-Last run: [42952931992](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42952931992) on 2026-11-11.
+Last run: [43156039583](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43156039583) on 2026-11-12.
 
 | test | result | job log |
 |---|---|---|
-| `test_scrape_flight_search` | ❌ failure | [log](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42952931992/job/130301282167) |
-| `test_scrape_hotel_search` | ❌ failure | [log](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42952931992/job/130301282110) |
+| `test_scrape_flight_search` | ❌ failure | [log](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43156039583/job/130976143900) |
+| `test_scrape_hotel_search` | ❌ failure | [log](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43156039583/job/130976143695) |
 
 ## Recent results (oldest first, each links to its job log)
 
 | test | results |
 |---|---|
-| `test_scrape_flight_search` | [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/41964657132/job/127038809693) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42159337974/job/127701037682) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42334174826/job/128287278838) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42440662604/job/128609035539) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42555780510/job/128961072716) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42759008668/job/129640073038) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42952931992/job/130301282167) |
-| `test_scrape_hotel_search` | [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/41964657132/job/127038809494) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42159337974/job/127701037527) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42334174826/job/128287278713) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42440662604/job/128609035506) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42555780510/job/128961072594) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42759008668/job/129640072981) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42952931992/job/130301282110) |
+| `test_scrape_flight_search` | [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/41964657132/job/127038809693) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42159337974/job/127701037682) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42334174826/job/128287278838) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42440662604/job/128609035539) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42555780510/job/128961072716) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42759008668/job/129640073038) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42952931992/job/130301282167) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43156039583/job/130976143900) |
+| `test_scrape_hotel_search` | [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/41964657132/job/127038809494) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42159337974/job/127701037527) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42334174826/job/128287278713) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42440662604/job/128609035506) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42555780510/job/128961072594) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42759008668/job/129640072981) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42952931992/job/130301282110) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43156039583/job/130976143695) |
