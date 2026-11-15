@@ -59,6 +59,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321074344"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685674763"
   }
  ],
  "airbnb-scraper/test_search_scraping": [
@@ -121,6 +127,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321074364"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685674799"
   }
  ],
  "amazon-scraper/test_product_scraping": [
@@ -183,6 +195,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321074384"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685674760"
   }
  ],
  "amazon-scraper/test_search_scraping": [
@@ -245,6 +263,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321074376"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685674832"
   }
  ],
  "allegro-scraper/test_search_scraping": [
@@ -307,6 +331,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321074361"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685674803"
   }
  ],
  "allegro-scraper/test_product_scraping": [
@@ -369,6 +399,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321074355"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685674813"
   }
  ],
  "aliexpress-scraper/test_review_scraping": [
@@ -431,6 +467,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321074373"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685674878"
   }
  ],
  "app-store-scraper/test_app_scraping": [
@@ -493,6 +535,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321074430"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685674769"
   }
  ],
  "aliexpress-scraper/test_category_scraping": [
@@ -555,6 +603,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321074365"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685674790"
   }
  ],
  "app-store-scraper/test_reviews_scraping": [
@@ -617,6 +671,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321074427"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685674758"
   }
  ],
  "aliexpress-scraper/test_search_scraping": [
@@ -679,6 +739,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321074410"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685674787"
   }
  ],
  "airbnb-scraper/test_property_scraping": [
@@ -741,6 +807,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321074451"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685674785"
   }
  ],
  "amazon-scraper/test_review_scraping": [
@@ -803,6 +875,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321074420"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685674778"
   }
  ],
  "aliexpress-scraper/test_product_scraping": [
@@ -865,6 +943,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321074382"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685674765"
   }
  ],
  "autoscout24-scraper/test_page_url": [
@@ -927,6 +1011,12 @@
    "run": 43553505467,
    "conclusion": "success",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321075510"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "success",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685675712"
   }
  ],
  "bestbuy-scraper/test_sitemap_scraping": [
@@ -989,6 +1079,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321075779"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685675878"
   }
  ],
  "autoscout24-scraper/test_listings_scraping": [
@@ -1051,6 +1147,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321075574"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685675778"
   }
  ],
  "bestbuy-scraper/test_product_scraping": [
@@ -1113,6 +1215,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321075627"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685675822"
   }
  ],
  "bing-scraper/test_serp_scraping": [
@@ -1175,6 +1283,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321075719"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685675860"
   }
  ],
  "bestbuy-scraper/test_search_scraping": [
@@ -1237,6 +1351,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321075737"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685675885"
   }
  ],
  "bestbuy-scraper/test_review_scraping": [
@@ -1299,6 +1419,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321075641"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685675855"
   }
  ],
  "bing-scraper/test_keyword_scraping": [
@@ -1361,6 +1487,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321075898"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685675904"
   }
  ],
  "autoscout24-scraper/test_car_details_scraping": [
@@ -1423,6 +1555,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321075579"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685675811"
   }
  ],
  "bookingcom-scraper/test_search_scraping": [
@@ -1485,6 +1623,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321075953"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685675975"
   }
  ],
  "bookingcom-scraper/test_hotel_reviews_scraping": [
@@ -1547,6 +1691,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321076562"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685676750"
   }
  ],
  "bookingcom-scraper/test_hotel_scraping": [
@@ -1609,6 +1759,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321076515"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685676515"
   }
  ],
  "capterra-scraper/test_review_scraping": [
@@ -1671,6 +1827,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321076574"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685676606"
   }
  ],
  "capterra-scraper/test_category_scraping": [
@@ -1733,6 +1895,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321076615"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685676551"
   }
  ],
  "chatgpt-scraper/test_scrape_conversation": [
@@ -1795,6 +1963,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321076643"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685676654"
   }
  ],
  "crunchbase-scraper/test_person_scraping": [
@@ -1857,6 +2031,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321076769"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685676665"
   }
  ],
  "crunchbase-scraper/test_company_scraping": [
@@ -1919,6 +2099,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321076799"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685676642"
   }
  ],
  "dhl-scraper/test_scrape_tracking": [
@@ -1981,6 +2167,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321076766"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685676675"
   }
  ],
  "digikey-scraper/test_product_scraping": [
@@ -2043,6 +2235,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321076829"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685676706"
   }
  ],
  "digikey-scraper/test_category_scraping": [
@@ -2105,6 +2303,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321076902"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685676715"
   }
  ],
  "digikey-scraper/test_search_scraping": [
@@ -2167,6 +2371,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321077278"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685677332"
   }
  ],
  "domaincom-scraper/test_properties_scraping": [
@@ -2229,6 +2439,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321077418"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685677397"
   }
  ],
  "domaincom-scraper/test_search_scraping": [
@@ -2291,6 +2507,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321077454"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685677421"
   }
  ],
  "ebay-scraper/test_product_scraping": [
@@ -2353,6 +2575,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321077472"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685677534"
   }
  ],
  "ebay-scraper/test_product_variants_scraping": [
@@ -2415,6 +2643,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321077490"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685677490"
   }
  ],
  "ebay-scraper/test_search_scraping": [
@@ -2477,6 +2711,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321077551"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685677455"
   }
  ],
  "emirates-scraper/test_scrape_flights": [
@@ -2539,6 +2779,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321077556"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685677537"
   }
  ],
  "etsy-scraper/test_product_scraping": [
@@ -2601,6 +2847,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321077627"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685677557"
   }
  ],
  "etsy-scraper/test_shop_scraping": [
@@ -2663,6 +2915,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321077674"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685677547"
   }
  ],
  "etsy-scraper/test_search_scraping": [
@@ -2725,6 +2983,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321078293"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685677570"
   }
  ],
  "expedia-scraper/test_scrape_hotel_search": [
@@ -2787,6 +3051,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321078278"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685678253"
   }
  ],
  "expedia-scraper/test_scrape_flight_search": [
@@ -2849,6 +3119,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321078295"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685678289"
   }
  ],
  "facebook-scraper/test_events_scraping": [
@@ -2911,6 +3187,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321078479"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685678422"
   }
  ],
  "facebook-scraper/test_page_scraping": [
@@ -2973,6 +3255,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321078310"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685678337"
   }
  ],
  "facebook-scraper/test_marketplace_scraping": [
@@ -3035,6 +3323,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321078340"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685678323"
   }
  ],
  "fashionphile-scraper/test_product_scraping": [
@@ -3097,6 +3391,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321078745"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685678473"
   }
  ],
  "fashionphile-scraper/test_search_scraping": [
@@ -3159,6 +3459,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321079002"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685678496"
   }
  ],
  "facebook-scraper/test_group_posts_scraping": [
@@ -3221,6 +3527,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321078565"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685678456"
   }
  ],
  "g2-scraper/test_review_scraping": [
@@ -3283,6 +3595,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321079009"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685678522"
   }
  ],
  "g2-scraper/test_search_scraping": [
@@ -3345,6 +3663,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321079330"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685678570"
   }
  ],
  "g2-scraper/test_alternative_scraping": [
@@ -3407,6 +3731,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321079373"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685679160"
   }
  ],
  "glassdoor-scraper/test_glassdoor_url": [
@@ -3469,6 +3799,12 @@
    "run": 43553505467,
    "conclusion": "success",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321079386"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "success",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685679242"
   }
  ],
  "glassdoor-scraper/test_salary_range_parsing": [
@@ -3531,6 +3867,12 @@
    "run": 43553505467,
    "conclusion": "success",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321079473"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "success",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685679255"
   }
  ],
  "glassdoor-scraper/test_find_companies": [
@@ -3593,6 +3935,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321079497"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685679317"
   }
  ],
  "glassdoor-scraper/test_salary_scraping": [
@@ -3655,6 +4003,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321079625"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685679332"
   }
  ],
  "glassdoor-scraper/test_job_scraping": [
@@ -3717,6 +4071,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321079644"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685679338"
   }
  ],
  "glassdoor-scraper/test_review_scraping": [
@@ -3779,6 +4139,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321079954"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685679350"
   }
  ],
  "goat-scraper/test_product_scraping": [
@@ -3841,6 +4207,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321080043"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685679442"
   }
  ],
  "goat-scraper/test_search_scraping": [
@@ -3903,6 +4275,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321080102"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685679486"
   }
  ],
  "goibibo-scraper/test_hotel_search_scraping": [
@@ -3965,6 +4343,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321080466"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685679430"
   }
  ],
  "goibibo-scraper/test_flight_search_scraping": [
@@ -4027,6 +4411,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321080624"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685679898"
   }
  ],
  "goodreads-scraper/test_book_scraping": [
@@ -4089,6 +4479,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321080699"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685680053"
   }
  ],
  "goodreads-scraper/test_review_scraping": [
@@ -4151,6 +4547,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321080766"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685680114"
   }
  ],
  "goodreads-scraper/test_search_scraping": [
@@ -4213,6 +4615,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321080876"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685680136"
   }
  ],
  "goodreads-scraper/test_list_scraping": [
@@ -4275,6 +4683,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321080839"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685680221"
   }
  ],
  "google-flights-scraper/test_scrape_flights": [
@@ -4337,6 +4751,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321080881"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685680141"
   }
  ],
  "google-flights-scraper/test_scrape_price_insights": [
@@ -4399,6 +4819,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321081011"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685680150"
   }
  ],
  "google-jobs-scraper/test_search_scraping": [
@@ -4461,6 +4887,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321081061"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685680174"
   }
  ],
  "google-play-scraper/test_reviews_scraping": [
@@ -4523,6 +4955,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321081429"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685680375"
   }
  ],
  "google-play-scraper/test_app_scraping": [
@@ -4585,6 +5023,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321081094"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685680226"
   }
  ],
  "google-play-scraper/test_search_scraping": [
@@ -4647,6 +5091,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321081671"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685680820"
   }
  ],
  "google-scraper/test_place_url_scraping": [
@@ -4709,6 +5159,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321082175"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685681053"
   }
  ],
  "google-scraper/test_serp_scraping": [
@@ -4771,6 +5227,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321082177"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685680980"
   }
  ],
  "google-scraper/test_place_scraping": [
@@ -4833,6 +5295,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321082205"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685681108"
   }
  ],
  "google-scraper/test_ai_mode_scraping": [
@@ -4895,6 +5363,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321082193"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685681102"
   }
  ],
  "homegate-scraper/test_properties_scraping": [
@@ -4957,6 +5431,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321082235"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685681131"
   }
  ],
  "homegate-scraper/test_search_scraping": [
@@ -5019,6 +5499,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321082297"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685681239"
   }
  ],
  "idealista-scraper/test_idealista_scraping": [
@@ -5081,6 +5567,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321082369"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685681179"
   }
  ],
  "google-scraper/test_keyword_scraping": [
@@ -5143,6 +5635,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321082168"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685681014"
   }
  ],
  "idealista-scraper/test_provinces_scraping": [
@@ -5205,6 +5703,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321082552"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685681348"
   }
  ],
  "idealista-scraper/test_search_scraping": [
@@ -5267,6 +5771,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321082698"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685681698"
   }
  ],
  "idealo-scraper/test_product_scraping": [
@@ -5329,6 +5839,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321083380"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685681855"
   }
  ],
  "idealo-scraper/test_search_scraping": [
@@ -5391,6 +5907,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321083346"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685681881"
   }
  ],
  "idealo-scraper/test_manufacturer_scraping": [
@@ -5453,6 +5975,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321083394"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685681892"
   }
  ],
  "idealo-scraper/test_price_history_scraping": [
@@ -5515,6 +6043,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321083424"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685681903"
   }
  ],
  "imdb-scraper/test_review_scraping": [
@@ -5577,6 +6111,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321083482"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685681946"
   }
  ],
  "imdb-scraper/test_title_scraping": [
@@ -5639,6 +6179,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321083436"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685681932"
   }
  ],
  "imdb-scraper/test_search_scraping": [
@@ -5701,6 +6247,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321083466"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685681997"
   }
  ],
  "imdb-scraper/test_chart_scraping": [
@@ -5763,6 +6315,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321083563"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685682105"
   }
  ],
  "imdb-scraper/test_person_scraping": [
@@ -5825,6 +6383,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321083787"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685682137"
   }
  ],
  "immobilienscout24-scraper/test_properties_scraping": [
@@ -5887,6 +6451,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321083848"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685682796"
   }
  ],
  "immobilienscout24-scraper/test_search_scraping": [
@@ -5949,6 +6519,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321084363"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685682944"
   }
  ],
  "immoscout24-scraper/test_properties_scraping": [
@@ -6011,6 +6587,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321084429"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685682949"
   }
  ],
  "immoscout24-scraper/test_search_scraping": [
@@ -6073,6 +6655,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321084458"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685683042"
   }
  ],
  "immowelt-scraper/test_search_scraping": [
@@ -6135,6 +6723,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321084455"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685683122"
   }
  ],
  "imovelweb-scraper/test_search_scraping": [
@@ -6197,6 +6791,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321084522"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685683108"
   }
  ],
  "immowelt-scraper/test_properties_scraping": [
@@ -6259,6 +6859,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321084566"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685683066"
   }
  ],
  "imovelweb-scraper/test_property_scraping": [
@@ -6321,6 +6927,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321084511"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685683204"
   }
  ],
  "indeed-scraper/test_search_scraping": [
@@ -6383,6 +6995,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321084590"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685683221"
   }
  ],
  "indeed-scraper/test_job_scraping": [
@@ -6445,6 +7063,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321084881"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685683289"
   }
  ],
  "instagram-scraper/test_user_scraping": [
@@ -6507,6 +7131,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321084959"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685683721"
   }
  ],
  "instagram-scraper/test_post_scraping": [
@@ -6569,6 +7199,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321085423"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685683797"
   }
  ],
  "instagram-scraper/test_user_post_scraping": [
@@ -6631,6 +7267,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321085494"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685683905"
   }
  ],
  "instagram-scraper/test_post_comments_scraping": [
@@ -6693,6 +7335,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321085531"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685683906"
   }
  ],
  "kayak-scraper/test_scrape_roundtrip": [
@@ -6755,6 +7403,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321085548"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685683912"
   }
  ],
  "leboncoin-scraper/test_search_scraping": [
@@ -6817,6 +7471,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321085605"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685683943"
   }
  ],
  "leboncoin-scraper/test_ad_scraping": [
@@ -6879,6 +7539,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321085657"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685683978"
   }
  ],
  "linkedin-scraper/test_profile_scraping": [
@@ -6941,6 +7607,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321085608"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685684073"
   }
  ],
  "linkedin-scraper/test_company_scraping": [
@@ -7003,6 +7675,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321085710"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685684114"
   }
  ],
  "linkedin-scraper/test_job_search_scraping": [
@@ -7065,6 +7743,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321086027"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685684106"
   }
  ],
  "linkedin-scraper/test_job_page_scraping": [
@@ -7127,6 +7811,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321086022"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685684461"
   }
  ],
  "loopnet-scraper/test_search_scraping": [
@@ -7189,6 +7879,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321086631"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685684795"
   }
  ],
  "loopnet-scraper/test_listing_scraping": [
@@ -7251,6 +7947,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321086560"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685684736"
   }
  ],
  "linkedin-scraper/test_article_scraping": [
@@ -7313,6 +8015,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321086450"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685684581"
   }
  ],
  "lowes-scraper/test_product_scraping": [
@@ -7375,6 +8083,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321086639"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685684821"
   }
  ],
  "lowes-scraper/test_search_scraping": [
@@ -7437,6 +8151,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321086669"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685684841"
   }
  ],
  "lowes-scraper/test_store_locations_scraping": [
@@ -7499,6 +8219,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321086713"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685684851"
   }
  ],
  "maersk-scraper/test_scrape_tracking": [
@@ -7561,6 +8287,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321086721"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685684847"
   }
  ],
  "maersk-scraper/test_scrape_schedule_search": [
@@ -7623,6 +8355,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321086701"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685684906"
   }
  ],
  "marriott-scraper/test_search_scraping": [
@@ -7685,6 +8423,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321087108"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685684901"
   }
  ],
  "marriott-scraper/test_hotel_scraping": [
@@ -7747,6 +8491,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321087263"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685685292"
   }
  ],
  "mouser-scraper/test_product_scraping": [
@@ -7809,6 +8559,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321087471"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685685541"
   }
  ],
  "mouser-scraper/test_search_scraping": [
@@ -7871,6 +8627,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321087598"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685685628"
   }
  ],
  "naver-scraper/test_image_search_scraping": [
@@ -7933,6 +8695,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321087751"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685685763"
   }
  ],
  "naver-scraper/test_blog_post_scraping": [
@@ -7995,6 +8763,12 @@
    "run": 43553505467,
    "conclusion": "success",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321087746"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "success",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685685832"
   }
  ],
  "naver-scraper/test_news_article_scraping": [
@@ -8057,6 +8831,12 @@
    "run": 43553505467,
    "conclusion": "success",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321087805"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "success",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685685823"
   }
  ],
  "nordstorm-scraper/test_product_scraping": [
@@ -8119,6 +8899,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321087784"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685685839"
   }
  ],
  "naver-scraper/test_web_search_scraping": [
@@ -8181,6 +8967,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321087710"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685685792"
   }
  ],
  "nordstorm-scraper/test_search_scraping": [
@@ -8243,6 +9035,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321087837"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685685852"
   }
  ],
  "perplexity-scraper/test_scrape_answer": [
@@ -8305,6 +9103,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321088098"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685685998"
   }
  ],
  "pinterest-scraper/test_search_scraping": [
@@ -8367,6 +9171,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321088208"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685686218"
   }
  ],
  "realestatecom-scraper/test_properties_scraping": [
@@ -8429,6 +9239,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321088372"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685686420"
   }
  ],
  "realestatecom-scraper/test_search_scraping": [
@@ -8491,6 +9307,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321088534"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685686503"
   }
  ],
  "realtorcom-scraper/test_property_scraping": [
@@ -8553,6 +9375,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321088618"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685686668"
   }
  ],
  "realtorcom-scraper/test_search_scraping": [
@@ -8615,6 +9443,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321088658"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685686640"
   }
  ],
  "realtorcom-scraper/test_feed_scraping": [
@@ -8677,6 +9511,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321088892"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685686654"
   }
  ],
  "reddit-scraper/test_subreddit_scraping": [
@@ -8739,6 +9579,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321088780"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685686738"
   }
  ],
  "reddit-scraper/test_post_scraping": [
@@ -8801,6 +9647,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321088795"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685686734"
   }
  ],
  "reddit-scraper/test_user_post_scraping": [
@@ -8863,6 +9715,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321088850"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685686723"
   }
  ],
  "reddit-scraper/test_user_comment_scraping": [
@@ -8925,6 +9783,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321089208"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685686977"
   }
  ],
  "redfin-scraper/test_properties_for_sale_scraping": [
@@ -8987,6 +9851,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321089391"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685687203"
   }
  ],
  "redfin-scraper/test_properties_for_rent_scraping": [
@@ -9049,6 +9919,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321089603"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685687287"
   }
  ],
  "redfin-scraper/test_search_scraping": [
@@ -9111,6 +9987,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321089886"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685687424"
   }
  ],
  "rightmove-scraper/test_search_scraping": [
@@ -9173,6 +10055,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321089763"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685687613"
   }
  ],
  "rightmove-scraper/test_properties_scraping": [
@@ -9235,6 +10123,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321089926"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685687599"
   }
  ],
  "rs-online-scraper/test_product_scraping": [
@@ -9297,6 +10191,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321089925"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685687660"
   }
  ],
  "rs-online-scraper/test_category_scraping": [
@@ -9359,6 +10259,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321089963"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685687632"
   }
  ],
  "rs-online-scraper/test_search_scraping": [
@@ -9421,6 +10327,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321090022"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685687781"
   }
  ],
  "seloger-scraper/test_search_scraping": [
@@ -9483,6 +10395,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321090092"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685687741"
   }
  ],
  "seloger-scraper/test_property_scraping": [
@@ -9545,6 +10463,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321090283"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685687985"
   }
  ],
  "shopify-scraper/test_catalog_scraping": [
@@ -9607,6 +10531,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321090670"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685688289"
   }
  ],
  "shopify-scraper/test_preflight_scraping": [
@@ -9669,6 +10599,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321090575"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685688142"
   }
  ],
  "shopify-scraper/test_collection_scraping": [
@@ -9731,6 +10667,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321090714"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685688388"
   }
  ],
  "shopify-scraper/test_product_page_scraping": [
@@ -9793,6 +10735,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321091090"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685688486"
   }
  ],
  "shopify-scraper/test_product_urls_scraping": [
@@ -9855,6 +10803,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321091008"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685688443"
   }
  ],
  "similarweb-scraper/test_website_scraping": [
@@ -9917,6 +10871,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321090970"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685688509"
   }
  ],
  "similarweb-scraper/test_website_compare_scraping": [
@@ -9979,6 +10939,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321091063"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685688533"
   }
  ],
  "similarweb-scraper/test_trend_scraping": [
@@ -10041,6 +11007,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321091074"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685688626"
   }
  ],
  "similarweb-scraper/test_sitemap_scraping": [
@@ -10103,6 +11075,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321091152"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685688630"
   }
  ],
  "skyscanner-scraper/test_scrape_flights_oneway": [
@@ -10165,6 +11143,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321091275"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685688811"
   }
  ],
  "stockx-scraper/test_product_scraping": [
@@ -10227,6 +11211,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321091456"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685688918"
   }
  ],
  "stockx-scraper/test_search_scraping": [
@@ -10289,6 +11279,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321091589"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685689051"
   }
  ],
  "target-scraper/test_product_scraping": [
@@ -10351,6 +11347,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321091618"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685689307"
   }
  ],
  "target-scraper/test_search_scraping": [
@@ -10413,6 +11415,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321091939"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685689328"
   }
  ],
  "target-scraper/test_availability_scraping": [
@@ -10475,6 +11483,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321091897"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685689366"
   }
  ],
  "target-scraper/test_store_locations_sitemap": [
@@ -10537,6 +11551,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321092000"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685689421"
   }
  ],
  "target-scraper/test_store_locations": [
@@ -10599,6 +11619,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321092085"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685689434"
   }
  ],
  "threads-scraper/test_thread_scraping": [
@@ -10661,6 +11687,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321092171"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685689541"
   }
  ],
  "threads-scraper/test_user_scraping": [
@@ -10723,6 +11755,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321092148"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685689546"
   }
  ],
  "ticketmaster-scraper/test_artist_scraping": [
@@ -10785,6 +11823,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321092212"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685689731"
   }
  ],
  "ticketmaster-scraper/test_discovery_scraping": [
@@ -10847,6 +11891,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321092439"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685689736"
   }
  ],
  "tiktok-scraper/test_comment_scraping": [
@@ -10909,6 +11959,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321092617"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685689840"
   }
  ],
  "tiktok-scraper/test_profile_scraping": [
@@ -10971,6 +12027,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321093006"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685690168"
   }
  ],
  "tiktok-scraper/test_post_scraping": [
@@ -11033,6 +12095,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321092735"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685690061"
   }
  ],
  "tiktok-scraper/test_channel_scraping": [
@@ -11095,6 +12163,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321093050"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685690210"
   }
  ],
  "tiktok-scraper/test_search_scraping": [
@@ -11157,6 +12231,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321093020"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685690177"
   }
  ],
  "tripadvisor-scraper/test_hotel_scraping": [
@@ -11219,6 +12299,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321093116"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685690217"
   }
  ],
  "tripadvisor-scraper/test_search_scraping": [
@@ -11281,6 +12367,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321093248"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685690406"
   }
  ],
  "tripadvisor-scraper/test_location_data_scraping": [
@@ -11343,6 +12435,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321093159"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685690371"
   }
  ],
  "trustpilot-scraper/test_company_scraping": [
@@ -11405,6 +12503,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321093283"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685690491"
   }
  ],
  "trustpilot-scraper/test_search_scraping": [
@@ -11467,6 +12571,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321093394"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685690496"
   }
  ],
  "trustpilot-scraper/test_review_scraping": [
@@ -11529,6 +12639,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321093654"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685690624"
   }
  ],
  "twitter-scraper/test_tweet_scraping": [
@@ -11591,6 +12707,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321093710"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685690797"
   }
  ],
  "twitter-scraper/test_user_scraping": [
@@ -11653,6 +12775,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321093893"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685690914"
   }
  ],
  "vestiairecollective-scraper/test_product_scraping": [
@@ -11715,6 +12843,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321093921"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685690957"
   }
  ],
  "vestiairecollective-scraper/test_search_scraping": [
@@ -11777,6 +12911,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321093999"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685690961"
   }
  ],
  "walmart-scraper/test_search_scraping": [
@@ -11839,6 +12979,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321094176"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685691161"
   }
  ],
  "walmart-scraper/test_product_scraping": [
@@ -11901,6 +13047,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321094040"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685691108"
   }
  ],
  "wellfound-scraper/test_company_scraping": [
@@ -11963,6 +13115,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321094270"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685691312"
   }
  ],
  "wellfound-scraper/test_search_scraping": [
@@ -12025,6 +13183,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321094609"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685691356"
   }
  ],
  "yellowpages-scraper/test_page_scraping": [
@@ -12087,6 +13251,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321094396"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685691392"
   }
  ],
  "yellowpages-scraper/test_search_scraping": [
@@ -12149,6 +13319,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321094913"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685691479"
   }
  ],
  "yelp-scraper/test_review_scraping": [
@@ -12211,6 +13387,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321094974"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685691662"
   }
  ],
  "yelp-scraper/test_page_scraping": [
@@ -12273,6 +13455,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321095009"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685691811"
   }
  ],
  "yelp-scraper/test_search_scraping": [
@@ -12335,6 +13523,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321095089"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685691804"
   }
  ],
  "youtube-scraper/test_comment_scraping": [
@@ -12397,6 +13591,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321095171"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685692106"
   }
  ],
  "youtube-scraper/test_video_scraping": [
@@ -12459,6 +13659,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321095155"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685691777"
   }
  ],
  "youtube-scraper/test_channel_scraping": [
@@ -12521,6 +13727,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321095356"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685692125"
   }
  ],
  "youtube-scraper/test_channel_videos_scraping": [
@@ -12583,6 +13795,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321095486"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685692202"
   }
  ],
  "youtube-scraper/test_shorts_scraping": [
@@ -12645,6 +13863,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321095877"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685692443"
   }
  ],
  "youtube-scraper/test_search_scraping": [
@@ -12707,6 +13931,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321095707"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685692405"
   }
  ],
  "zillow-scraper/test_search_scraping": [
@@ -12769,6 +13999,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321096168"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685692621"
   }
  ],
  "youtube-scraper/test_transcript_scraping": [
@@ -12831,6 +14067,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321096084"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685692431"
   }
  ],
  "zillow-scraper/test_property_scraping": [
@@ -12893,6 +14135,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321096226"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685692652"
   }
  ],
  "zoominfo-scraper/test_company_scraping": [
@@ -12955,6 +14203,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321096223"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685692689"
   }
  ],
  "zoominfo-scraper/test_directory_scraping": [
@@ -13017,6 +14271,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321096348"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685692702"
   }
  ],
  "zoominfo-scraper/test_faq_scraping": [
@@ -13079,6 +14339,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321096536"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685692964"
   }
  ],
  "zoopla-scraper/test_search_scraping": [
@@ -13141,6 +14407,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321096741"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685692981"
   }
  ],
  "zoopla-scraper/test_properties_scraping": [
@@ -13203,6 +14475,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321096872"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685693404"
   }
  ],
  "zoro-scraper/test_product_scraping": [
@@ -13265,6 +14543,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321096893"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685693253"
   }
  ],
  "zoro-scraper/test_search_scraping": [
@@ -13327,6 +14611,12 @@
    "run": 43553505467,
    "conclusion": "failure",
    "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321097112"
+  },
+  {
+   "date": "2026-11-15",
+   "run": 43672569061,
+   "conclusion": "failure",
+   "url": "https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685693280"
   }
  ]
 }
