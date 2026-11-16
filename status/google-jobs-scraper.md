@@ -1,13 +1,13 @@
 # google-jobs-scraper: tests failing
 
-Last run: [43672569061](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061) on 2026-11-15.
+Last run: [43798382634](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43798382634) on 2026-11-16.
 
 | test | result | job log |
 |---|---|---|
-| `test_search_scraping` | ❌ failure | [log](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685680174) |
+| `test_search_scraping` | ❌ failure | [log](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43798382634/job/133072482483) |
 
 ## Recent results (oldest first, each links to its job log)
 
 | test | results |
 |---|---|
-| `test_search_scraping` | [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/41964657132/job/127038813489) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42159337974/job/127701041579) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42334174826/job/128287281618) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42440662604/job/128609037801) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42555780510/job/128961076199) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42759008668/job/129640076638) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42952931992/job/130301285992) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43156039583/job/130976147325) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43361584012/job/131676176863) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321081061) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685680174) |
+| `test_search_scraping` | [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/41964657132/job/127038813489) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42159337974/job/127701041579) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42334174826/job/128287281618) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42440662604/job/128609037801) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42555780510/job/128961076199) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42759008668/job/129640076638) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/42952931992/job/130301285992) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43156039583/job/130976147325) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43361584012/job/131676176863) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43553505467/job/132321081061) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43672569061/job/132685680174) [❌](https://github.com/J-W-Smith/scrapfly-scrapers/actions/runs/43798382634/job/133072482483) |
